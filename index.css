@@ -1,0 +1,28 @@
+body {
+  background: #ffdada;
+}
+
+header {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 1118px;
+  height: 158px;
+  left: 161px;
+  top: 0px;
+}
+
+header .logo {
+  position: absolute;
+  width: 75px;
+  height: 44px;
+  left: 0px;
+  top: 157px;
+  background: url(../../../Downloads/g16.png) no-repeat center center;
+  background-size: cover;
+}
+/*# sourceMappingURL=index.css.map */

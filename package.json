@@ -1,0 +1,12 @@
+{
+  "name": "dksite",
+  "version": "1.0.0",
+  "description": "example dk site",
+  "main": "index.js",
+  "keywords": [
+    "dk",
+    "realeastate"
+  ],
+  "author": "gon",
+  "license": "ISC"
+}

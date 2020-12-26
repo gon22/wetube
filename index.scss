@@ -1,0 +1,21 @@
+body {
+    background: rgb(255, 218, 218);
+}
+header {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 1118px;
+    height: 158px;
+    left: 161px;
+    top: 0px;
+    .logo {
+        position: absolute;
+        width: 75px;
+        height: 44px;
+        left: 0px;
+        top: 157px;
+        background: url(../../../Downloads/g16.png) no-repeat center center;
+        background-size: cover;
+    }
+}
